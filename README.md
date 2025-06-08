@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html lang="pl">
 <head>
 	<meta charset="utf-8" />
@@ -46,11 +46,11 @@
 			padding: 20px;
 		}
 		#Proc {
+			float: center;
 			width: 160px;
-			margin-left: auto;
-			margin-right: auto;
+			min-height: 620px;
 			padding: 10px;
-			background-color: blue;
+			background-color: lightgray;
 		}
 	</style>
 </head>
